@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## ABOUT 
 ### INTERESTS🚀
 My formation is MG Psychology and the basics in web developer.
-I´m interested in continue learning in the skin of any company and deep in the programming.
+I´m interested in continue learning in the skin of any company to grow in the skill programming.
 I´d like Collaborate with projects linked to Solutions in:
 
 - Mental Health Coaching for Programmers🤹‍♀️
@@ -47,7 +47,7 @@ My main strengths💪
 
 - Fast learning
 - Empathy and responsibility
-- Motivation
+- Self-Motivation
 
 ### TECHNOLOGIES🚀
 ![image](https://miro.medium.com/max/902/1*KXGsAa3i3DY3Z4T2dOYP3A.jpeg) 
