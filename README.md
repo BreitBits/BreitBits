@@ -5,17 +5,10 @@
 
 
 ~~~
- <!DOCTYPE html>
-<html lang=”en”>
-<head>
-    <meta charset=”UTF-8″ />
-    <title>Document</title>
-</head>
-<body> </body>
-</html> 
+Hello World!
 ~~~
 
-![Texto alternativo](![image](https://static.vecteezy.com/system/resources/thumbnails/000/693/934/small/dark-blue-technology-and-high-tech-abstract-background.jpg)
+![image](https://static.vecteezy.com/system/resources/thumbnails/000/693/934/small/dark-blue-technology-and-high-tech-abstract-background.jpg)
 
 
 
