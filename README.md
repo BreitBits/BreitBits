@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 -->
 
 ## MG PSYCHOLOGY AND WEB DEVELOPER 
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+### INTERESTS
+Collaborate with projects about Solutions in Mental Health Coaching for Programmers and Web Development in Psychoeducational Health care programs and universities
 
 - Elemento 1
 - Elemento 2
