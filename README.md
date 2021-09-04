@@ -2,7 +2,7 @@
 
 <!--
 **BreitBits/BreitBits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://cdn.pixabay.com/photo/2015/10/21/13/37/abstract-999658_960_720.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
