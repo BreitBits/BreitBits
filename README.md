@@ -34,17 +34,20 @@ Here are some ideas to get you started:
 -->
 
 ## MG PSYCHOLOGY AND WEB DEVELOPER 
-### INTERESTS
-Collaborate with projects about Solutions in Mental Health Coaching for Programmers and Web Development in Psychoeducational Health care programs and universities
+### INTERESTS🚀
+Collaborate with projects linked to Solutions in:
 
-- Elemento 1
-- Elemento 2
+- Mental Health Coaching for Programmers🤹‍♀️
+- Web Development in Psychoeducational Health care programs and universities🏅
 - Elemento 3
 
-Este es un ejemplo de texto que da entrada a una lista numerada:
+My main strengths💪
 
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
 
+- Fast learning
+- Empathy and responsibility
+- Motivation
+
+<!--
 Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+-->
