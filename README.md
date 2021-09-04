@@ -48,11 +48,8 @@ My main strengths💪
 - Motivation
 
 ### TECHNOLOGIES🚀
-![image](https://miro.medium.com/max/902/1*KXGsAa3i3DY3Z4T2dOYP3A.jpeg) (![image](https://user-images.githubusercontent.com/89481611/132109471-d9cf4ba1-08f2-403c-a78d-5789a2dd65d7.png)
-
-
-
-
+![image](https://miro.medium.com/max/902/1*KXGsAa3i3DY3Z4T2dOYP3A.jpeg) 
+![image](https://www.theindianwire.com/wp-content/uploads/2018/06/Python-vs-Java.png)
 
 
 
