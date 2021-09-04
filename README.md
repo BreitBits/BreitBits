@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## MG PSYCHOLOGY AND WEB DEVELOPER 
+## ABOUT 
 ### INTERESTS🚀
-Collaborate with projects linked to Solutions in:
+My formation is MG Psychology and the basics in web developer.
+I´m interested in continue learning in the skin of any company and deep in the programming.
+I´d like Collaborate with projects linked to Solutions in:
 
 - Mental Health Coaching for Programmers🤹‍♀️
 - Web Development in Psychoeducational Health care programs and universities🏅
