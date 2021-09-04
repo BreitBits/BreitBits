@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Título
+## MG PSYCHOLOGY AND WEB DEVELOPER 
 ### Subtítulo
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 
