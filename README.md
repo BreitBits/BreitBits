@@ -38,7 +38,7 @@ Collaborate with projects linked to Solutions in:
 
 - Mental Health Coaching for Programmers🤹‍♀️
 - Web Development in Psychoeducational Health care programs and universities🏅
-- Elemento 3
+- Training Company
 
 My main strengths💪
 
@@ -49,7 +49,9 @@ My main strengths💪
 
 ### TECHNOLOGIES🚀
 ![image](https://miro.medium.com/max/902/1*KXGsAa3i3DY3Z4T2dOYP3A.jpeg) 
-![image](https://www.theindianwire.com/wp-content/uploads/2018/06/Python-vs-Java.png)
+![image](https://user-images.githubusercontent.com/89481611/132109700-7d82cb83-c0ad-4a9b-99aa-197aabc2d047.png) 
+![image](https://spng.subpng.com/20180421/qqe/kisspng-python-computer-icons-programming-language-compute-binary-5adad69a5e4a98.3994210015242912263862.jpg)
+
 
 
 
