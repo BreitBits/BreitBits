@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## ABOUT 
 ### INTERESTS🚀
-My formation is MG Psychology and the basics in web developer.
+My formation is MG Psychology and the basics in Web Developer.
 I´m interested in continue learning in the skin of any company to grow in the skills programming.
 I´d like Collaborate with projects linked to Solutions in:
 
