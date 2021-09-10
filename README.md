@@ -50,9 +50,12 @@ My main strengths💪
 - Self-Motivation
 
 ### TECHNOLOGIES🚀
-![image](https://miro.medium.com/max/902/1*KXGsAa3i3DY3Z4T2dOYP3A.jpeg) 
-![image](https://user-images.githubusercontent.com/89481611/132109700-7d82cb83-c0ad-4a9b-99aa-197aabc2d047.png) 
-![image](https://spng.subpng.com/20180421/qqe/kisspng-python-computer-icons-programming-language-compute-binary-5adad69a5e4a98.3994210015242912263862.jpg)
+![image](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+![image](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![image](https://img.icons8.com/color/48/000000/css3.png)
+![image](https://img.icons8.com/color/48/000000/python--v1.png) 
+![image](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+
 
 
 
