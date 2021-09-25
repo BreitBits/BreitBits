@@ -5,7 +5,7 @@
 
 
 ~~~
-!“Whatever the mind can conceive and believe, it can achieve.”
+“Whatever the mind can conceive and believe, it can achieve.”
 ― Napoleon Hill, Think and Grow Rich: A Black Choice
 ~~~
 ![image](https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/01/github-cartoon-kitty.jpg)
